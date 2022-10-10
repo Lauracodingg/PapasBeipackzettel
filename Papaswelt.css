@@ -1,0 +1,75 @@
+h1, h2, h3, p, img {text-align:center;
+color:white;
+}
+
+h1 { font-size:40px;
+color: white;
+ }
+
+
+
+h2 { font-size: 30px;
+color: white;}
+
+.head { color:red; font-size:20px;
+font-style: italic}
+
+div { display:grid;
+place-items: center;
+}
+
+h3 { font-size:25px;
+font-style: oblique}
+
+hr{ width:60%;
+    height:2px ;
+background-color:white;
+border-color: white;}
+
+.tips { background-color: black;}
+
+.bonus {
+    background-color: grey}
+
+ul { color: white;}
+
+.what{ height:4px;
+    width:20%;
+font-size: 19px;}
+
+.heading { width:60%;
+height:5px;
+background-color:white;}
+
+.outfit {margin-left:auto; margin-right:auto;
+    padding: 20px;
+    max-width: 500px;}
+    
+.item p {display:inline-block;}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    place-items: center;
+    flex: 67.33%;
+    padding: 7px;
+  }
+
+  h4 { color: white;
+text-align: center;
+font-size: 20px;
+}
+
+.newdiv { width:60%;
+    height:2px ;
+background-color:black;
+border-color: black;}
+
+.witz { color:red;
+font-size: 30px;}
+
+.witzdestages{ height: 50px; width:500px;}
+
+.button{ height: 30px; width: 300px;}
